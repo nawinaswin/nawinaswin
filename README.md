@@ -1,4 +1,6 @@
-- 👋 Hi, I’m nawinaswin
+- 👋 Hi, I’m Nawin Aswin Sakthivelan
+- Fintech, Data Science, Machine Learning professional
+- I spend most of my time on work related to AGI research and development 
 - 📫 How to reach me? nawinaswins@gmail.com
 
 
