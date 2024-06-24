@@ -2,7 +2,7 @@
 - Fintech, Data Science, Machine Learning professional
 - I spend most of my time on work related to AGI research and development 
 - 📫 How to reach me? nawinaswins@gmail.com
-- #do not compare: value = -5; result = (value + abs(value)) / 2
+- #do not compare: max(a,b) = ( a + b + abs( a + b) ) / 2; a , b > 0
 
 
 <!---
