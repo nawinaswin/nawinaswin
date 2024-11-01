@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nawin Aswin Sakthivelan
-- Fintech, Data Science, Machine Learning,
-- Most of my repos are just some Scrap work, RL applications and environments to play with. Most of them are private or incomplete. Ping me if you need anything at all.
-- 📫 How to reach me? nawinaswins@gmail.com
-- #do not compare: max(a,b) = ( a + b + abs( a + b) ) / 2; a , b > 0
+- Too many incomplete Computational Neuroscience, Fintech, Data Science, Machine Learning Projects
+- Most of my repos are just some Scrap work, Supports utilities RL applications and environments to play with
+- 📫 Ping me at nawinaswins@gmail.com
+
 
 
 <!---
